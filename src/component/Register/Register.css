@@ -1,0 +1,10 @@
+.login{
+    text-align: center;
+}
+.login a{
+    text-decoration: none;
+}
+
+.login form button{
+    margin: 0 10px;
+}
